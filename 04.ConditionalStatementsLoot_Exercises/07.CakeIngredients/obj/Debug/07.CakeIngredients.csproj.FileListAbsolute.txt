@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb

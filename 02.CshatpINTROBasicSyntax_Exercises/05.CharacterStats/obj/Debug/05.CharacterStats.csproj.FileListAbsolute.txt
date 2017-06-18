@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.pdb

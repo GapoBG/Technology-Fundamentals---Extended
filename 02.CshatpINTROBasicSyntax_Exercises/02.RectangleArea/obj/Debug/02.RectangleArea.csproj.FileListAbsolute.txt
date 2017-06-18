@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\02.RectangleArea\obj\Debug\02.RectangleArea.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\02.RectangleArea\obj\Debug\02.RectangleArea.pdb

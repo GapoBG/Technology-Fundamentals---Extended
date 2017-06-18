@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\bin\Debug\04.Phone.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\bin\Debug\04.Phone.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\bin\Debug\04.Phone.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\obj\Debug\04.Phone.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\obj\Debug\04.Phone.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\04.Phone\obj\Debug\04.Phone.pdb

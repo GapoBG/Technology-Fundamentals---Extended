@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\06.TriplesLatinLetters\bin\Debug\06.TriplesLatinLetters.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\06.TriplesLatinLetters\bin\Debug\06.TriplesLatinLetters.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\06.TriplesLatinLetters\bin\Debug\06.TriplesLatinLetters.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\06.TriplesLatinLetters\obj\Debug\06.TriplesLatinLetters.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\06.TriplesLatinLetters\obj\Debug\06.TriplesLatinLetters.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\bin\Debug\01.TimeSinceBirth.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\bin\Debug\01.TimeSinceBirth.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\bin\Debug\01.TimeSinceBirth.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\obj\Debug\01.TimeSinceBirth.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\obj\Debug\01.TimeSinceBirth.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\01.TimeSinceBirth\obj\Debug\01.TimeSinceBirth.pdb

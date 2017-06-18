@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.pdb

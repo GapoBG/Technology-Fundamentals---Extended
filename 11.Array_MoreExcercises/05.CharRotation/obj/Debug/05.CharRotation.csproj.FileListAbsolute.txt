@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\bin\Debug\05.CharRotation.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\bin\Debug\05.CharRotation.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\bin\Debug\05.CharRotation.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\obj\Debug\05.CharRotation.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\obj\Debug\05.CharRotation.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\05.CharRotation\obj\Debug\05.CharRotation.pdb

@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\05.BPMcounter\bin\Debug\05.BPMcounter.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\05.BPMcounter\bin\Debug\05.BPMcounter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\05.BPMcounter\bin\Debug\05.BPMcounter.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\05.BPMcounter\obj\Debug\05.BPMcounter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\05.BPMcounter\obj\Debug\05.BPMcounter.pdb

@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\bin\Debug\04.RotatArrayString.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\bin\Debug\04.RotatArrayString.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\bin\Debug\04.RotatArrayString.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\obj\Debug\04.RotatArrayString.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\obj\Debug\04.RotatArrayString.pdb

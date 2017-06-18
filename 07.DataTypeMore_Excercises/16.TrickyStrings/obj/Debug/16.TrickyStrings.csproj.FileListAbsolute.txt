@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.pdb

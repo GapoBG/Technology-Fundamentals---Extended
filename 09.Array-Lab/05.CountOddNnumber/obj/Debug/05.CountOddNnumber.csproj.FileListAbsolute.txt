@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\05.CountOddNnumber\bin\Debug\05.CountOddNnumber.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\05.CountOddNnumber\bin\Debug\05.CountOddNnumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\05.CountOddNnumber\bin\Debug\05.CountOddNnumber.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\05.CountOddNnumber\obj\Debug\05.CountOddNnumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\05.CountOddNnumber\obj\Debug\05.CountOddNnumber.pdb

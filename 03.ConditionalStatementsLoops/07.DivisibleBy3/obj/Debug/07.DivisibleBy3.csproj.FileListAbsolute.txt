@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\07.DivisibleBy3\obj\Debug\07.DivisibleBy3.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\07.DivisibleBy3\obj\Debug\07.DivisibleBy3.pdb

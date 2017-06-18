@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\bin\Debug\04.Hotel.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\bin\Debug\04.Hotel.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\bin\Debug\04.Hotel.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\obj\Debug\04.Hotel.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\obj\Debug\04.Hotel.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\04.Hotel\obj\Debug\04.Hotel.pdb

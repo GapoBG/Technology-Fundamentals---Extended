@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\bin\Debug\01.Last3EqualString.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\bin\Debug\01.Last3EqualString.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\bin\Debug\01.Last3EqualString.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\obj\Debug\01.Last3EqualString.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\obj\Debug\01.Last3EqualString.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\01.Last3EqualString\obj\Debug\01.Last3EqualString.pdb

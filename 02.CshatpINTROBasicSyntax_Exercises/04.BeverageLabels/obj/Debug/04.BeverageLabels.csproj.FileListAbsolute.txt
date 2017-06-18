@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\02.CshatpINTROBasicSyntax_Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

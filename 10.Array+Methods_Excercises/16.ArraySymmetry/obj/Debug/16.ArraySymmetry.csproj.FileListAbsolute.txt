@@ -1,0 +1,6 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.pdb

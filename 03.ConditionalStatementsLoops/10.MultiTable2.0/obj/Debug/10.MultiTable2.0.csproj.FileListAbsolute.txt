@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\10.MultiTable2.0\bin\Debug\10.MultiTable2.0.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\10.MultiTable2.0\bin\Debug\10.MultiTable2.0.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\10.MultiTable2.0\bin\Debug\10.MultiTable2.0.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\10.MultiTable2.0\obj\Debug\10.MultiTable2.0.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\10.MultiTable2.0\obj\Debug\10.MultiTable2.0.pdb

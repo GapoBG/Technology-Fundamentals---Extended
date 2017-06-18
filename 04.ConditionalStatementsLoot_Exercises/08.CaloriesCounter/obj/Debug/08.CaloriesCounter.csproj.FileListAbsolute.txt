@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

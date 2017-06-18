@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\04.MonthPrinter\obj\Debug\04.MonthPrinter.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\04.MonthPrinter\obj\Debug\04.MonthPrinter.pdb

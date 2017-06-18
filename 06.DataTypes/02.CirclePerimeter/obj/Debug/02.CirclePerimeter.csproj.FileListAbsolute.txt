@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\02.CirclePerimeter\bin\Debug\02.CirclePerimeter.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\02.CirclePerimeter\bin\Debug\02.CirclePerimeter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\02.CirclePerimeter\bin\Debug\02.CirclePerimeter.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\02.CirclePerimeter\obj\Debug\02.CirclePerimeter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\02.CirclePerimeter\obj\Debug\02.CirclePerimeter.pdb

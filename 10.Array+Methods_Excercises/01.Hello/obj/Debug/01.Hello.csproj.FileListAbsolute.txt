@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\bin\Debug\01.Hello.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\bin\Debug\01.Hello.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\bin\Debug\01.Hello.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\obj\Debug\01.Hello.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\obj\Debug\01.Hello.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\bin\Debug\01.Hello.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\01.Hello\bin\Debug\01.Hello.exe.lastcodeanalysissucceeded

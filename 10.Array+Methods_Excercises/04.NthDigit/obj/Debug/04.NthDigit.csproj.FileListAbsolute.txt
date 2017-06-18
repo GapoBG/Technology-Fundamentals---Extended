@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\bin\Debug\04.NthDigit.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\bin\Debug\04.NthDigit.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\bin\Debug\04.NthDigit.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\obj\Debug\04.NthDigit.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\obj\Debug\04.NthDigit.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\bin\Debug\04.NthDigit.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\04.NthDigit\bin\Debug\04.NthDigit.exe.lastcodeanalysissucceeded

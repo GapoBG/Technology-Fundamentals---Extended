@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\obj\Debug\02.VaporStore.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\02.VaporStore\obj\Debug\02.VaporStore.pdb

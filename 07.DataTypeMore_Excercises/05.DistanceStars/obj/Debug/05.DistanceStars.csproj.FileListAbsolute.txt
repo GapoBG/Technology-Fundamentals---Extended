@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\bin\Debug\05.DistanceStars.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\bin\Debug\05.DistanceStars.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\bin\Debug\05.DistanceStars.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\obj\Debug\05.DistanceStars.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\obj\Debug\05.DistanceStars.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\05.DistanceStars\obj\Debug\05.DistanceStars.pdb

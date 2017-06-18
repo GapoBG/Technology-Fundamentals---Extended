@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\13.DigitsWords\bin\Debug\13.DigitsWords.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\13.DigitsWords\bin\Debug\13.DigitsWords.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\13.DigitsWords\bin\Debug\13.DigitsWords.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\13.DigitsWords\obj\Debug\13.DigitsWords.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\13.DigitsWords\obj\Debug\13.DigitsWords.pdb

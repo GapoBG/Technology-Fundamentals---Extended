@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\18.BallisticsTraining\bin\Debug\18.BallisticsTraining.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\18.BallisticsTraining\bin\Debug\18.BallisticsTraining.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\18.BallisticsTraining\bin\Debug\18.BallisticsTraining.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\18.BallisticsTraining\obj\Debug\18.BallisticsTraining.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\18.BallisticsTraining\obj\Debug\18.BallisticsTraining.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

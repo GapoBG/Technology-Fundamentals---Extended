@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\06.MathPower\bin\Debug\06.MathPower.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\06.MathPower\bin\Debug\06.MathPower.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\06.MathPower\bin\Debug\06.MathPower.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\06.MathPower\obj\Debug\06.MathPower.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\06.MathPower\obj\Debug\06.MathPower.pdb

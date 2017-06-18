@@ -1,0 +1,1 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\04.RotatArrayString\bin\Debug\04.RotatArrayString.exe.config

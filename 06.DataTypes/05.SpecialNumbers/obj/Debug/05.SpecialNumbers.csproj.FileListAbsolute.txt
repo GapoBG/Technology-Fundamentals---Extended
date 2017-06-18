@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

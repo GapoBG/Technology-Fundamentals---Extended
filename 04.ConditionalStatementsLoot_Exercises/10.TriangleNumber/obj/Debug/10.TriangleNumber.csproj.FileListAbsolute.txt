@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\bin\Debug\10.TriangleNumber.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\bin\Debug\10.TriangleNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\bin\Debug\10.TriangleNumber.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\obj\Debug\10.TriangleNumber.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\obj\Debug\10.TriangleNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\10.TriangleNumber\obj\Debug\10.TriangleNumber.pdb

@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\15.Calculator\bin\Debug\15.Calculator.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\15.Calculator\bin\Debug\15.Calculator.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\15.Calculator\bin\Debug\15.Calculator.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\15.Calculator\obj\Debug\15.Calculator.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\15.Calculator\obj\Debug\15.Calculator.pdb

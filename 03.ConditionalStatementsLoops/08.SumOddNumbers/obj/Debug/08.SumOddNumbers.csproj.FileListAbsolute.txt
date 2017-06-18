@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\08.SumOddNumbers\bin\Debug\08.SumOddNumbers.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\08.SumOddNumbers\bin\Debug\08.SumOddNumbers.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\08.SumOddNumbers\bin\Debug\08.SumOddNumbers.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\08.SumOddNumbers\obj\Debug\08.SumOddNumbers.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\08.SumOddNumbers\obj\Debug\08.SumOddNumbers.pdb

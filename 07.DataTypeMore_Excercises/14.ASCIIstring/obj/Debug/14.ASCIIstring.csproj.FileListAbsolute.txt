@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\bin\Debug\14.ASCIIstring.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\bin\Debug\14.ASCIIstring.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\bin\Debug\14.ASCIIstring.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\obj\Debug\14.ASCIIstring.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\obj\Debug\14.ASCIIstring.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\14.ASCIIstring\obj\Debug\14.ASCIIstring.pdb

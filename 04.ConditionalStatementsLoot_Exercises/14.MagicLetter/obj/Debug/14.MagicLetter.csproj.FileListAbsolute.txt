@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\bin\Debug\14.MagicLetter.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\bin\Debug\14.MagicLetter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\bin\Debug\14.MagicLetter.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\obj\Debug\14.MagicLetter.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\obj\Debug\14.MagicLetter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\14.MagicLetter\obj\Debug\14.MagicLetter.pdb

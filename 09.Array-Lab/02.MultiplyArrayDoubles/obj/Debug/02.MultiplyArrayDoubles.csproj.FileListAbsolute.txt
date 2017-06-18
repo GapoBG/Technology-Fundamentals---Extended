@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\bin\Debug\02.MultiplyArrayDoubles.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\bin\Debug\02.MultiplyArrayDoubles.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\bin\Debug\02.MultiplyArrayDoubles.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\obj\Debug\02.MultiplyArrayDoubles.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\obj\Debug\02.MultiplyArrayDoubles.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\02.MultiplyArrayDoubles\obj\Debug\02.MultiplyArrayDoubles.pdb

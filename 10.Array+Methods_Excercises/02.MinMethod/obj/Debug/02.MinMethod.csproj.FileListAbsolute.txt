@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\bin\Debug\02.MinMethod.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\bin\Debug\02.MinMethod.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\bin\Debug\02.MinMethod.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\obj\Debug\02.MinMethod.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\obj\Debug\02.MinMethod.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\bin\Debug\02.MinMethod.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\02.MinMethod\bin\Debug\02.MinMethod.exe.lastcodeanalysissucceeded

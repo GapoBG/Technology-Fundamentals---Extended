@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.pdb

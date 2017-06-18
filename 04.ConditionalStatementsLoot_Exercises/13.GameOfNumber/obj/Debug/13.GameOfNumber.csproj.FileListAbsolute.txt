@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\bin\Debug\13.GameOfNumber.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\obj\Debug\13.GameOfNumber.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\bin\Debug\13.GameOfNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\bin\Debug\13.GameOfNumber.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\obj\Debug\13.GameOfNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\13.GameOfNumber\obj\Debug\13.GameOfNumber.pdb

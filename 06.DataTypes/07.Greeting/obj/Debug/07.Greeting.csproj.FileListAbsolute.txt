@@ -1,0 +1,2 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\07.Greeting\bin\Debug\07.Greeting.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\07.Greeting\obj\Debug\07.Greeting.csprojResolveAssemblyReference.cache

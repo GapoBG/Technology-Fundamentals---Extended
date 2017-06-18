@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\bin\Debug\06.Notifications.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\bin\Debug\06.Notifications.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\bin\Debug\06.Notifications.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\obj\Debug\06.Notifications.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\obj\Debug\06.Notifications.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\06.Notifications\obj\Debug\06.Notifications.pdb

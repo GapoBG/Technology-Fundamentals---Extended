@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\bin\Debug\13.IncSequenceElements.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\bin\Debug\13.IncSequenceElements.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\bin\Debug\13.IncSequenceElements.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\obj\Debug\13.IncSequenceElements.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\obj\Debug\13.IncSequenceElements.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\13.IncSequenceElements\obj\Debug\13.IncSequenceElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\bin\Debug\17.Altitude.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\bin\Debug\17.Altitude.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\bin\Debug\17.Altitude.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\obj\Debug\17.Altitude.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\obj\Debug\17.Altitude.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\17.Altitude\obj\Debug\17.Altitude.pdb

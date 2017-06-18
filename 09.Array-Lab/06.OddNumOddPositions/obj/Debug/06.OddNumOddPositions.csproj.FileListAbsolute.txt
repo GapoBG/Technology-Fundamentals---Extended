@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\06.OddNumOddPositions\bin\Debug\06.OddNumOddPositions.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\06.OddNumOddPositions\bin\Debug\06.OddNumOddPositions.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\06.OddNumOddPositions\bin\Debug\06.OddNumOddPositions.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\06.OddNumOddPositions\obj\Debug\06.OddNumOddPositions.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\06.OddNumOddPositions\obj\Debug\06.OddNumOddPositions.pdb

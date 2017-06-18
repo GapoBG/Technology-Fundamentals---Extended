@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\15.CountCapitalLetter\bin\Debug\15.CountCapitalLetter.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\bin\Debug\15.CountCapitalLetter.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\bin\Debug\15.CountCapitalLetter.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\bin\Debug\15.CountCapitalLetter.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\obj\Debug\15.CountCapitalLetter.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\obj\Debug\15.CountCapitalLetter.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\15.CountCapitalLetter\obj\Debug\15.CountCapitalLetter.pdb

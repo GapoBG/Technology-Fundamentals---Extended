@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\10.CountNegativeElem\bin\Debug\10.CountNegativeElem.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\10.CountNegativeElem\bin\Debug\10.CountNegativeElem.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\10.CountNegativeElem\bin\Debug\10.CountNegativeElem.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\10.CountNegativeElem\obj\Debug\10.CountNegativeElem.exe
+D:\Gapo\ProgrammingFundamentals-Extended\10.Array+Methods_Excercises\10.CountNegativeElem\obj\Debug\10.CountNegativeElem.pdb

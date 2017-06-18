@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\02.AddTwoNumber\bin\Debug\02.AddTwoNumber.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\02.AddTwoNumber\bin\Debug\02.AddTwoNumber.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\02.AddTwoNumber\bin\Debug\02.AddTwoNumber.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\02.AddTwoNumber\obj\Debug\02.AddTwoNumber.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\02.AddTwoNumber\obj\Debug\02.AddTwoNumber.pdb

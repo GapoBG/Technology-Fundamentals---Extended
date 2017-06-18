@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\03.EmployeeData\obj\Debug\03.EmployeeData.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\01.CshatpINTROBasicSyntax\03.EmployeeData\obj\Debug\03.EmployeeData.pdb

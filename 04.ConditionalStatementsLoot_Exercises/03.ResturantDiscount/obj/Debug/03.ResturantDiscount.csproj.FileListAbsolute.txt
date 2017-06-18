@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\bin\Debug\03.ResturantDiscount.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\bin\Debug\03.ResturantDiscount.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\bin\Debug\03.ResturantDiscount.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\obj\Debug\03.ResturantDiscount.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\obj\Debug\03.ResturantDiscount.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\03.ResturantDiscount\obj\Debug\03.ResturantDiscount.pdb

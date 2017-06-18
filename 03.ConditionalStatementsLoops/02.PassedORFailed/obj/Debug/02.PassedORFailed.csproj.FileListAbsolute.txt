@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\02.PassedORFailed\bin\Debug\02.PassedORFailed.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\02.PassedORFailed\bin\Debug\02.PassedORFailed.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\02.PassedORFailed\bin\Debug\02.PassedORFailed.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\02.PassedORFailed\obj\Debug\02.PassedORFailed.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\03ConditionalStatementsLoops\02.PassedORFailed\obj\Debug\02.PassedORFailed.pdb

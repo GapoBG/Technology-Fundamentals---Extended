@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\bin\Debug\01.PrintX.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\bin\Debug\01.PrintX.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\bin\Debug\01.PrintX.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\obj\Debug\01.PrintX.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\obj\Debug\01.PrintX.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\01.PrintX\obj\Debug\01.PrintX.pdb

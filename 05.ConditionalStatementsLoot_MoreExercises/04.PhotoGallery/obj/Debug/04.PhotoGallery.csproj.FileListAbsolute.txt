@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.exe
+D:\Gapo\ProgrammingFundamentals-Extended\05..ConditionalStatementsLoot_MoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.pdb

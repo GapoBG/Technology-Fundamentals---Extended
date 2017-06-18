@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.pdb

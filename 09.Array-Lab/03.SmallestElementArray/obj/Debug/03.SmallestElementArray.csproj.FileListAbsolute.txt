@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\03.SmallestElementArray\bin\Debug\03.SmallestElementArray.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\03.SmallestElementArray\bin\Debug\03.SmallestElementArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\03.SmallestElementArray\bin\Debug\03.SmallestElementArray.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\03.SmallestElementArray\obj\Debug\03.SmallestElementArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\09.Array-Lab\03.SmallestElementArray\obj\Debug\03.SmallestElementArray.pdb

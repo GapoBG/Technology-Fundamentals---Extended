@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\bin\Debug\04.Transport.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\bin\Debug\04.Transport.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\bin\Debug\04.Transport.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\obj\Debug\04.Transport.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\obj\Debug\04.Transport.exe
+D:\Gapo\ProgrammingFundamentals-Extended\06.DataTypes\04.Transport\obj\Debug\04.Transport.pdb

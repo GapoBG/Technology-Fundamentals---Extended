@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\02.SignIntNum\bin\Debug\02.SignIntNum.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\02.SignIntNum\bin\Debug\02.SignIntNum.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\02.SignIntNum\bin\Debug\02.SignIntNum.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\02.SignIntNum\obj\Debug\02.SignIntNum.exe
+D:\Gapo\ProgrammingFundamentals-Extended\08.Methods-lab\02.SignIntNum\obj\Debug\02.SignIntNum.pdb

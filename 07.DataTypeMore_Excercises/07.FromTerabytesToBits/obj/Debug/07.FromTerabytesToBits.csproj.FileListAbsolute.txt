@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\07.FromTerabytesToBits\bin\Debug\07.FromTerabytesToBits.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\07.FromTerabytesToBits\obj\Debug\07.FromTerabytesToBits.exe
+D:\Gapo\ProgrammingFundamentals-Extended\07.DataTypeMore_Excercises\07.FromTerabytesToBits\obj\Debug\07.FromTerabytesToBits.pdb

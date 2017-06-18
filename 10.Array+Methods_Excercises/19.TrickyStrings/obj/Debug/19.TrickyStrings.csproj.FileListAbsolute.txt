@@ -1,0 +1,5 @@
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\19.TrickyStrings\bin\Debug\19.TrickyStrings.exe.config
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\19.TrickyStrings\bin\Debug\19.TrickyStrings.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\19.TrickyStrings\bin\Debug\19.TrickyStrings.pdb
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\19.TrickyStrings\obj\Debug\19.TrickyStrings.exe
+E:\SoftUni\1.Technology Fundamentals - Extended\Excercises\10.Array+Methods_Excercises\19.TrickyStrings\obj\Debug\19.TrickyStrings.pdb

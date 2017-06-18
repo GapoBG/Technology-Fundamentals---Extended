@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\bin\Debug\02.ChooseDrink2.0.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\obj\Debug\02.ChooseDrink2.0.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\bin\Debug\02.ChooseDrink2.0.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\bin\Debug\02.ChooseDrink2.0.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\obj\Debug\02.ChooseDrink2.0.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\02.ChooseDrink2.0\obj\Debug\02.ChooseDrink2.0.pdb

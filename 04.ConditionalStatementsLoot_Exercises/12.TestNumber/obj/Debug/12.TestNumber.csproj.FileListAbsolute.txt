@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\12.TestNumber\bin\Debug\12.TestNumber.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\12.TestNumber\bin\Debug\12.TestNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\12.TestNumber\bin\Debug\12.TestNumber.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\12.TestNumber\obj\Debug\12.TestNumber.exe
+D:\Gapo\ProgrammingFundamentals-Extended\04.ConditionalStatementsLoot_Exercises\12.TestNumber\obj\Debug\12.TestNumber.pdb

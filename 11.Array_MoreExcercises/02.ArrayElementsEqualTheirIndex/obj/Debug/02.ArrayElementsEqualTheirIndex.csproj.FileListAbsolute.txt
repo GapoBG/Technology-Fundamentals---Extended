@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\02.ArrayElementsEqualTheirIndex\bin\Debug\02.ArrayElementsEqualTheirIndex.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\02.ArrayElementsEqualTheirIndex\bin\Debug\02.ArrayElementsEqualTheirIndex.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\02.ArrayElementsEqualTheirIndex\bin\Debug\02.ArrayElementsEqualTheirIndex.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\02.ArrayElementsEqualTheirIndex\obj\Debug\02.ArrayElementsEqualTheirIndex.exe
+D:\Gapo\ProgrammingFundamentals-Extended\11.Array_MoreExcercises\02.ArrayElementsEqualTheirIndex\obj\Debug\02.ArrayElementsEqualTheirIndex.pdb
