@@ -1,0 +1,8 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\03.SumAdjacentEqualNum\bin\Debug\03.SumAdjacentEqualNum.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\03.SumAdjacentEqualNum\bin\Debug\03.SumAdjacentEqualNum.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\03.SumAdjacentEqualNum\bin\Debug\03.SumAdjacentEqualNum.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\03.SumAdjacentEqualNum\obj\Debug\03.SumAdjacentEqualNum.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\03.SumAdjacentEqualNum\obj\Debug\03.SumAdjacentEqualNum.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\03.SumAdjacentEqualNum\bin\Debug\03.SumAdjacentEqualNum.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\03.SumAdjacentEqualNum\obj\Debug\03.SumAdjacentEqualNum.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\03.SumAdjacentEqualNum\obj\Debug\03.SumAdjacentEqualNum.pdb

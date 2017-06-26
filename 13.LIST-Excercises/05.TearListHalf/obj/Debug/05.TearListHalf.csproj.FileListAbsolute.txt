@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\bin\Debug\05.TearListHalf.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\bin\Debug\05.TearListHalf.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\bin\Debug\05.TearListHalf.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\obj\Debug\05.TearListHalf.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\obj\Debug\05.TearListHalf.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\bin\Debug\05.TearListHalf.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\05.TearListHalf\bin\Debug\05.TearListHalf.exe.lastcodeanalysissucceeded

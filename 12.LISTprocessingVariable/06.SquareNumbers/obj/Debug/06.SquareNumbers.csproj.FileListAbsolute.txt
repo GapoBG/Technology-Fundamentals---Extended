@@ -1,0 +1,2 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe.config

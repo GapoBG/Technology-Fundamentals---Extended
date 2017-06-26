@@ -1,0 +1,2 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config

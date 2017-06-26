@@ -1,0 +1,9 @@
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\bin\Debug\01.ArrayContainsElement.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\bin\Debug\01.ArrayContainsElement.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\bin\Debug\01.ArrayContainsElement.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\obj\Debug\01.ArrayContainsElement.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\obj\Debug\01.ArrayContainsElement.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\01.ArrayContainsElement\obj\Debug\01.ArrayContainsElement.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algorithms\01.ArrayContainsElement\bin\Debug\01.ArrayContainsElement.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algorithms\01.ArrayContainsElement\obj\Debug\01.ArrayContainsElement.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algorithms\01.ArrayContainsElement\obj\Debug\01.ArrayContainsElement.pdb

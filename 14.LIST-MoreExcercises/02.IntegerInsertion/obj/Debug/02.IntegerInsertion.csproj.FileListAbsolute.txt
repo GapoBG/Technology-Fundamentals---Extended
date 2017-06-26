@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.exe
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.exe
+D:\Gapo\ProgrammingFundamentals-Extended\14.LIST-MoreExcercises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.pdb

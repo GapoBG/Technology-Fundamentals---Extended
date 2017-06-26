@@ -1,0 +1,2 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config

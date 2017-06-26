@@ -1,0 +1,10 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\02.AppendList\obj\Debug\02.AppendList.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\02.AppendList\obj\Debug\02.AppendList.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\02.AppendList\obj\Debug\02.AppendList.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\02.AppendList\obj\Debug\02.AppendList.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\02.AppendList\bin\Debug\02.AppendList.pdb

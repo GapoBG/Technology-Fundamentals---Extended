@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\03.ReverseArray\bin\Debug\03.ReverseArray.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\03.ReverseArray\bin\Debug\03.ReverseArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\03.ReverseArray\bin\Debug\03.ReverseArray.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\03.ReverseArray\obj\Debug\03.ReverseArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\03.ReverseArray\obj\Debug\03.ReverseArray.pdb

@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\07.LargestElementsN\bin\Debug\07.LargestElementsN.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\07.LargestElementsN\bin\Debug\07.LargestElementsN.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\07.LargestElementsN\bin\Debug\07.LargestElementsN.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\07.LargestElementsN\obj\Debug\07.LargestElementsN.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\07.LargestElementsN\obj\Debug\07.LargestElementsN.pdb

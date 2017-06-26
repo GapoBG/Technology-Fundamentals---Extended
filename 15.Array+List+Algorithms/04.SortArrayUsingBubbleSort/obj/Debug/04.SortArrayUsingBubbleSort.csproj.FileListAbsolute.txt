@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\04.SortArrayUsingBubbleSort\bin\Debug\04.SortArrayUsingBubbleSort.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\04.SortArrayUsingBubbleSort\bin\Debug\04.SortArrayUsingBubbleSort.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\04.SortArrayUsingBubbleSort\bin\Debug\04.SortArrayUsingBubbleSort.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\04.SortArrayUsingBubbleSort\obj\Debug\04.SortArrayUsingBubbleSort.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\04.SortArrayUsingBubbleSort\obj\Debug\04.SortArrayUsingBubbleSort.pdb

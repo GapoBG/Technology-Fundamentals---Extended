@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\bin\Debug\01.RemElementOddPosition.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\bin\Debug\01.RemElementOddPosition.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\bin\Debug\01.RemElementOddPosition.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\obj\Debug\01.RemElementOddPosition.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\obj\Debug\01.RemElementOddPosition.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\bin\Debug\01.RemElementOddPosition.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\01.RemElementOddPosition\bin\Debug\01.RemElementOddPosition.exe.lastcodeanalysissucceeded

@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\bin\Debug\03.EqualSumAfterExtraction.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\bin\Debug\03.EqualSumAfterExtraction.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\bin\Debug\03.EqualSumAfterExtraction.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\obj\Debug\03.EqualSumAfterExtraction.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\obj\Debug\03.EqualSumAfterExtraction.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\bin\Debug\03.EqualSumAfterExtraction.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\03.EqualSumAfterExtraction\bin\Debug\03.EqualSumAfterExtraction.exe.lastcodeanalysissucceeded

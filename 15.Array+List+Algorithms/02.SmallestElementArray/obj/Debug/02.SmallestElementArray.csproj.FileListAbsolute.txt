@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\02.SmallestElementArray\bin\Debug\02.SmallestElementArray.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\02.SmallestElementArray\bin\Debug\02.SmallestElementArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\02.SmallestElementArray\bin\Debug\02.SmallestElementArray.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\02.SmallestElementArray\obj\Debug\02.SmallestElementArray.exe
+D:\Gapo\ProgrammingFundamentals-Extended\15.Array+List+Algotiyhms\02.SmallestElementArray\obj\Debug\02.SmallestElementArray.pdb

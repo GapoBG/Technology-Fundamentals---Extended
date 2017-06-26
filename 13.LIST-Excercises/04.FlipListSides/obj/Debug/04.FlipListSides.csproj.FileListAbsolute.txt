@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\bin\Debug\04.FlipListSides.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\bin\Debug\04.FlipListSides.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\bin\Debug\04.FlipListSides.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\obj\Debug\04.FlipListSides.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\obj\Debug\04.FlipListSides.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\bin\Debug\04.FlipListSides.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\04.FlipListSides\bin\Debug\04.FlipListSides.exe.lastcodeanalysissucceeded

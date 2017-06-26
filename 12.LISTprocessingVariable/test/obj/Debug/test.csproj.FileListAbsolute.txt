@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\bin\Debug\test.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\bin\Debug\test.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\bin\Debug\test.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\obj\Debug\test.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\test\obj\Debug\test.pdb

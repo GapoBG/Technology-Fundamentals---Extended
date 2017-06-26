@@ -1,0 +1,9 @@
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\bin\Debug\04.SplitWordCasing.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\bin\Debug\04.SplitWordCasing.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\bin\Debug\04.SplitWordCasing.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\obj\Debug\04.SplitWordCasing.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\obj\Debug\04.SplitWordCasing.exe
+D:\Gapo\ProgrammingFundamentals-Extended\LISTprocessingVariable\04.SplitWordCasing\obj\Debug\04.SplitWordCasing.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\04.SplitWordCasing\bin\Debug\04.SplitWordCasing.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\04.SplitWordCasing\obj\Debug\04.SplitWordCasing.exe
+D:\Gapo\ProgrammingFundamentals-Extended\12.LISTprocessingVariable\04.SplitWordCasing\obj\Debug\04.SplitWordCasing.pdb

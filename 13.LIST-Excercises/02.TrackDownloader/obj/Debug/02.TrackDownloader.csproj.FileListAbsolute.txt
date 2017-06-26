@@ -1,0 +1,7 @@
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\obj\Debug\02.TrackDownloader.exe
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\obj\Debug\02.TrackDownloader.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.CodeAnalysisLog.xml
+D:\Gapo\ProgrammingFundamentals-Extended\13.LIST-Excercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.lastcodeanalysissucceeded
