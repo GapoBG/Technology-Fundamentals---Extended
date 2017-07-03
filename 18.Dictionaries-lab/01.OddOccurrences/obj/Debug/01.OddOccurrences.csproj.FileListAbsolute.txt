@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\bin\Debug\01.OddOccurrences.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\bin\Debug\01.OddOccurrences.exe
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\bin\Debug\01.OddOccurrences.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\obj\Debug\01.OddOccurrences.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\obj\Debug\01.OddOccurrences.exe
+D:\Gapo\ProgrammingFundamentals-Extended\18.Dictionaries-lab\01.OddOccurrences\obj\Debug\01.OddOccurrences.pdb

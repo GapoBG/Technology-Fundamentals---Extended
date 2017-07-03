@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\bin\Debug\04.JapaneseRoulette.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\obj\Debug\04.JapaneseRoulette.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\bin\Debug\04.JapaneseRoulette.exe
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\bin\Debug\04.JapaneseRoulette.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\obj\Debug\04.JapaneseRoulette.exe
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\04.JapaneseRoulette\obj\Debug\04.JapaneseRoulette.pdb

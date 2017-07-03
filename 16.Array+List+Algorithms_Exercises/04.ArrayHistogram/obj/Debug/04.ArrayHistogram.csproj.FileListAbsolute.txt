@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\bin\Debug\04.ArrayHistogram.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\04.ArrayHistogram\obj\Debug\04.ArrayHistogram.pdb

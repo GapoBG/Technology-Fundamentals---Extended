@@ -1,1 +1,6 @@
 D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\bin\Debug\01.ShootListElements.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\bin\Debug\01.ShootListElements.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\bin\Debug\01.ShootListElements.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\obj\Debug\01.ShootListElements.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\obj\Debug\01.ShootListElements.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\01.ShootListElements\obj\Debug\01.ShootListElements.pdb

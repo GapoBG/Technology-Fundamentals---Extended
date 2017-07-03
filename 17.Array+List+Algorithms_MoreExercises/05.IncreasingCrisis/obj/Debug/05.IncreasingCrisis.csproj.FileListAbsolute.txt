@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.exe
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\05.IncreasingCrisis\bin\Debug\05.IncreasingCrisis.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\05.IncreasingCrisis\obj\Debug\05.IncreasingCrisis.exe
+D:\Gapo\ProgrammingFundamentals-Extended\17.Array+List+Algorithms_MoreExercises\05.IncreasingCrisis\obj\Debug\05.IncreasingCrisis.pdb

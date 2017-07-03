@@ -1,0 +1,5 @@
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\03.SortArrayStrings\bin\Debug\03.SortArrayStrings.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\03.SortArrayStrings\bin\Debug\03.SortArrayStrings.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\03.SortArrayStrings\bin\Debug\03.SortArrayStrings.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\03.SortArrayStrings\obj\Debug\03.SortArrayStrings.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\03.SortArrayStrings\obj\Debug\03.SortArrayStrings.pdb

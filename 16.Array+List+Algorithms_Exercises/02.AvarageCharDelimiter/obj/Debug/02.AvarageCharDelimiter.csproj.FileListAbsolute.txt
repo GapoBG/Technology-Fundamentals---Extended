@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\bin\Debug\02.AvarageCharDelimiter.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\obj\Debug\02.AvarageCharDelimiter.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\bin\Debug\02.AvarageCharDelimiter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\bin\Debug\02.AvarageCharDelimiter.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\obj\Debug\02.AvarageCharDelimiter.exe
+D:\Gapo\ProgrammingFundamentals-Extended\16.Array+List+Algorithms_Exercises\02.AvarageCharDelimiter\obj\Debug\02.AvarageCharDelimiter.pdb
