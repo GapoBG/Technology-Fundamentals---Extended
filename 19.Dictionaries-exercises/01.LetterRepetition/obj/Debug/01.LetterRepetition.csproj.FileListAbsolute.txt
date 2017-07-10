@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\bin\Debug\01.LetterRepetition.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\bin\Debug\01.LetterRepetition.exe
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\bin\Debug\01.LetterRepetition.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\obj\Debug\01.LetterRepetition.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\obj\Debug\01.LetterRepetition.exe
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\01.LetterRepetition\obj\Debug\01.LetterRepetition.pdb

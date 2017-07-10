@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\bin\Debug\02.CitiesContinentCountry.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\bin\Debug\02.CitiesContinentCountry.exe
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\bin\Debug\02.CitiesContinentCountry.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\obj\Debug\02.CitiesContinentCountry.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\obj\Debug\02.CitiesContinentCountry.exe
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\02.CitiesContinentCountry\obj\Debug\02.CitiesContinentCountry.pdb

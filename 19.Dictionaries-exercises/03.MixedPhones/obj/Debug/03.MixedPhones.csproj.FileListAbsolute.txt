@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\bin\Debug\03.MixedPhones.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\bin\Debug\03.MixedPhones.exe
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\bin\Debug\03.MixedPhones.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\obj\Debug\03.MixedPhones.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\obj\Debug\03.MixedPhones.exe
+D:\Gapo\ProgrammingFundamentals-Extended\19.Dictionaries-exercises\03.MixedPhones\obj\Debug\03.MixedPhones.pdb

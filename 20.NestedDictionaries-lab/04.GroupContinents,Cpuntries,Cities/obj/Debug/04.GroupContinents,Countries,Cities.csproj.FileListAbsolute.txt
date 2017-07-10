@@ -1,0 +1,1 @@
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\04.GroupContinents,Cpuntries,Cities\obj\Debug\04.GroupContinents,Countries,Cities.csprojResolveAssemblyReference.cache

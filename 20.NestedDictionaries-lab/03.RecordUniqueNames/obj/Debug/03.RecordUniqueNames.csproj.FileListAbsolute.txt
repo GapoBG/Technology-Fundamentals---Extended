@@ -1,0 +1,6 @@
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe.config
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.pdb
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.csprojResolveAssemblyReference.cache
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.exe
+D:\Gapo\ProgrammingFundamentals-Extended\20.NestedDictionaries-lab\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.pdb
